@@ -1,0 +1,9 @@
+Package: robertR
+Type: Package
+Title: CIMMYT breeding program functions
+Version: 1.0
+Date: 2022-12-08
+Author: Robert Hijmans
+Maintainer: Robert Hijmans <r.hijmans@gmail.com>
+Description: This package is amazing. It does everything you need ot compute the area of a circle. In the future, we plan to also add the circumference.
+License: GPL3
